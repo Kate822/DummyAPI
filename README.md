@@ -77,5 +77,5 @@ owner: object(User Preview)
 
 
 ##Майнд-карта
-МК является набором тестов для проверки объекта **POST**. Подробная проверка составлена для **Get List** и **Create Post**.
-![Alt-текст](https://drive.google.com/file/d/1wJSo09SNNbRwVrt9IPKs2JMhKNquZf47/view?usp=share_link "МК")
+МК является набором тестов для проверки объекта **POST**. Подробные проверки составлены для **Get List** и **Create Post**.
+![Alt-текст](https://cloud.mail.ru/public/DMga/by8jq1gnJ "МК")
